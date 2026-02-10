@@ -24,6 +24,14 @@ This project highlights hands-on experience with:
 
 ---
 
+## 🚀 Application Running (ECS Fargate)
+
+Below is the application successfully running on AWS ECS Fargate:
+
+<img width="947" height="470" alt="image" src="https://github.com/user-attachments/assets/25d6c093-5027-4a0e-9002-d9a4d292bc22" />
+
+---
+
 ## 🏗 Architecture
 
             ┌────────────────────┐
